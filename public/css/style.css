@@ -1,0 +1,40 @@
+body{
+  background-color: #caf7e3;
+}
+form{
+  text-align: center;
+}
+#head{
+  color: #343f56;
+    text-align: center;
+    margin: 80px;
+    font-size: 80px;
+    text-decoration: underline;
+}
+.app{
+  color: #343f56;
+    text-align: center;
+    margin: 80px;
+    font-size: 80px;
+    text-decoration: underline;
+}
+#footer{
+    text-align: center;
+  margin-top: 300px;
+  font-size: 20px;
+}
+.city{
+    color: #4a47a3;
+    font-family: fantasy;
+    font-size: 30px;
+}
+#cityInput{
+  border-color:  red;
+  font-size: 30px;
+}
+button{
+  border-color:  red;
+  font-size: 30px;
+  font-family: fantasy;
+  color: red;
+}
